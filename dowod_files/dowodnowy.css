@@ -24,7 +24,8 @@ p.czas {
     text-align: center;
     color: #4a4a4a;
     font-size: 12px;
-    left: 100px;
+    position: relative;
+    left: 15px; /* Przesuwa element o 10px w prawo */
 }
 
 main {
