@@ -106,6 +106,7 @@ main {
     color: #598527;
     font-size: 14px;
     font-weight: 600;
+    width: calc(100% - 20px); /* szerokość 100% minus marginesy */
 }
 #bottom p{
     margin-left: 20px;
